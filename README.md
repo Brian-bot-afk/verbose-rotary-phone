@@ -1,2 +1,7 @@
-<h3>Restaurant Reservation Application</h3>
+****Restaurant Management System****
 
+A restuarant management system to book reservations and make  menu orders.
+
+Dependecies.
+
+PHP, MySQL
